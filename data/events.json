@@ -1,0 +1,62 @@
+[
+    {
+        "slug": "riyadh-season",
+        "name": "Riyadh Season",
+        "city": "Riyadh",
+        "dates": "October to March (annual)",
+        "status": "Annual",
+        "emoji": "🎡",
+        "gradient": "g1",
+        "description": "The Kingdom's flagship entertainment festival transforms Riyadh each winter with themed zones, international concerts, boxing and UFC nights, restaurants and pop-up attractions. Boulevard Riyadh City and Boulevard World are the headline zones.\n\nTickets for big-name events sell out weeks ahead — book early on the official Webook app and plan weekday visits to dodge the biggest crowds."
+    },
+    {
+        "slug": "jeddah-season",
+        "name": "Jeddah Season",
+        "city": "Jeddah",
+        "dates": "Summer (annual)",
+        "status": "Annual",
+        "emoji": "🎆",
+        "gradient": "g3",
+        "description": "Jeddah's summer festival fills the waterfront with concerts, fireworks, food villages and beach events. City Walk and the Corniche zones host the biggest draws, with nightly drone shows over the sea.\n\nCombine with mornings in Al-Balad before the heat, and evenings on the festival grounds when the sea breeze kicks in."
+    },
+    {
+        "slug": "soundstorm",
+        "name": "MDLBEAST Soundstorm",
+        "city": "Riyadh",
+        "dates": "December (annual)",
+        "status": "Annual",
+        "emoji": "🎧",
+        "gradient": "g8",
+        "description": "The Middle East's biggest music festival — three December days of global headliners and regional acts across a dozen stages in the desert outside Riyadh. Past line-ups have included the world's top DJs and pop stars.\n\nShuttle buses run from central Riyadh; stay hydrated, dress warm for desert nights, and book tickets and accommodation well in advance."
+    },
+    {
+        "slug": "winter-at-tantora",
+        "name": "Winter at Tantora (AlUla Moments)",
+        "city": "AlUla",
+        "dates": "December to January (annual)",
+        "status": "Annual",
+        "emoji": "🎻",
+        "gradient": "g2",
+        "description": "AlUla's winter festival season anchors concerts at the mirrored Maraya hall — from orchestras to Arabic pop legends — alongside hot-air balloons, vintage car rallies and candlelit dinners among the tombs.\n\nIt is the busiest and most magical time in AlUla; secure Hegra tours, balloon flights and Maraya tickets as soon as dates drop."
+    },
+    {
+        "slug": "f1-jeddah",
+        "name": "Formula 1 Saudi Arabian Grand Prix",
+        "city": "Jeddah",
+        "dates": "Spring (annual)",
+        "status": "Annual",
+        "emoji": "🏎️",
+        "gradient": "g7",
+        "description": "Formula 1 under lights on the fastest street circuit on the calendar, hugging the Jeddah Corniche. Race weekend includes concerts, fan zones and pit-lane experiences.\n\nGrandstand tickets along the main straight go first; the general admission mounds offer great views of the high-speed final sector at a fraction of the price."
+    },
+    {
+        "slug": "diriyah-eprix",
+        "name": "Diriyah E-Prix",
+        "city": "Diriyah",
+        "dates": "January/February (annual)",
+        "status": "Annual",
+        "emoji": "⚡",
+        "gradient": "g4",
+        "description": "Formula E's night race around the UNESCO walls of At-Turaif — all-electric street racing with the illuminated mud-brick citadel as a backdrop, plus concerts and family zones.\n\nThe circuit's elevation changes make the infield grandstands the pick of the seats. Pair the race with dinner at Bujairi Terrace overlooking the track."
+    }
+]

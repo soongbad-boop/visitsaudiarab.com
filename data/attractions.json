@@ -1,0 +1,101 @@
+[
+    {
+        "slug": "edge-of-the-world",
+        "name": "Edge of the World (Jebel Fihrayn)",
+        "destination": "riyadh",
+        "category": "Nature",
+        "ticket": "Free (4WD or guided tour required)",
+        "hours": "Best at sunrise or sunset",
+        "emoji": "🏞️",
+        "gradient": "g2",
+        "description": "The Tuwaiq escarpment drops away in sheer 300-metre cliffs with views across an endless ocean of desert — the most dramatic landscape within reach of Riyadh.\n\nThe last stretch is rough track: go with a high-clearance 4WD or a guided tour, allow half a day, and carry plenty of water. Sunset is the classic time to visit; weekdays are far quieter than weekends."
+    },
+    {
+        "slug": "masmak-fortress",
+        "name": "Masmak Fortress",
+        "destination": "riyadh",
+        "category": "History",
+        "ticket": "Free",
+        "hours": "Sat–Thu 8:00–21:00, Fri 16:00–21:00",
+        "emoji": "🏯",
+        "gradient": "g4",
+        "description": "The mud-brick fort stormed by Abdulaziz Ibn Saud in 1902 — the raid that began the unification of Saudi Arabia. The museum inside tells the story well, and the surrounding souq is the best place in Riyadh for oud, carpets and antiques.\n\nCombine with the nearby Al-Zal souq and the Imam Turki bin Abdullah Grand Mosque square for an easy old-Riyadh walking loop."
+    },
+    {
+        "slug": "kingdom-centre-sky-bridge",
+        "name": "Kingdom Centre Sky Bridge",
+        "destination": "riyadh",
+        "category": "Landmark",
+        "ticket": "From SAR 69",
+        "hours": "Daily 12:00–23:00",
+        "emoji": "🌉",
+        "gradient": "g1",
+        "description": "Ride the elevator 99 floors up Riyadh's most iconic tower for a 360-degree view from the Sky Bridge spanning its famous inverted arch. Come at sunset and stay as the city lights come on — the view north along King Fahd Road is the classic Riyadh photograph.\n\nThe mall below houses the Kingdom's first luxury shopping precinct and a good range of cafés for a post-view coffee."
+    },
+    {
+        "slug": "al-balad",
+        "name": "Al-Balad (Historic Jeddah)",
+        "destination": "jeddah",
+        "category": "Heritage",
+        "ticket": "Free (guided walks available)",
+        "hours": "Best late afternoon and evening",
+        "emoji": "🕌",
+        "gradient": "g3",
+        "description": "Jeddah's UNESCO-listed old town is a maze of coral-stone tower houses, their rawasheen balconies carved from teak shipped in from India. Many houses are now museums, galleries and cafés — don't miss Nasseef House and the restored Al-Shafi'i Mosque.\n\nThe district comes alive after 17:00 when the heat fades and the lanterns come on. Guided heritage walks run most evenings in season."
+    },
+    {
+        "slug": "king-fahd-fountain",
+        "name": "King Fahd Fountain & Jeddah Corniche",
+        "destination": "jeddah",
+        "category": "Landmark",
+        "ticket": "Free",
+        "hours": "Fountain visible from dusk",
+        "emoji": "⛲",
+        "gradient": "g5",
+        "description": "Jetting Red Sea water 312 metres into the air, King Fahd Fountain is the tallest fountain in the world and Jeddah's defining landmark. It is best viewed from the Corniche at sunset, when the plume is floodlit against the sea.\n\nThe Corniche itself stretches for kilometres — rent bikes, stop at the open-air sculpture museum, and finish with grilled fish at a waterfront restaurant."
+    },
+    {
+        "slug": "hegra",
+        "name": "Hegra (Mada'in Salih)",
+        "destination": "alula",
+        "category": "Archaeology",
+        "ticket": "From SAR 95 (guided tour)",
+        "hours": "Tours morning and late afternoon",
+        "emoji": "🗿",
+        "gradient": "g2",
+        "description": "Saudi Arabia's first UNESCO World Heritage site: more than 110 monumental tombs carved by the Nabataeans into golden sandstone, including the iconic solitary Qasr Al-Farid. Hegra is Petra's southern sister — older tombs, a fraction of the crowds.\n\nVisits are by organised tour only (bus, vintage Land Rover or 4x4). Book the dawn or sunset slots for the best light, and combine with the Dadan and Jabal Ikmah inscriptions nearby."
+    },
+    {
+        "slug": "elephant-rock",
+        "name": "Elephant Rock (Jabal Al-Fil)",
+        "destination": "alula",
+        "category": "Nature",
+        "ticket": "Free",
+        "hours": "Daily, sunset seating until late",
+        "emoji": "🐘",
+        "gradient": "g4",
+        "description": "A 52-metre monolith weathered into the unmistakable shape of an elephant, its trunk touching the desert floor. Sunken fire-pit seating circles the rock, with food trucks and coffee stands making it AlUla's favourite sunset hangout.\n\nArrive an hour before sunset to claim a seat; the rock glows deep red as the light fades and is floodlit after dark."
+    },
+    {
+        "slug": "at-turaif",
+        "name": "At-Turaif District",
+        "destination": "diriyah",
+        "category": "Heritage",
+        "ticket": "From SAR 100 (includes Bujairi access)",
+        "hours": "Daily 10:00–23:00",
+        "emoji": "🏰",
+        "gradient": "g7",
+        "description": "The restored mud-brick citadel of the first Saudi state, a UNESCO World Heritage site of palaces, mosques and museums overlooking Wadi Hanifah. Interactive exhibits walk you through three centuries of Saudi history.\n\nPair an afternoon visit with dinner across the road at Bujairi Terrace, where restaurants face the illuminated walls — one of the great evening views in the Kingdom."
+    },
+    {
+        "slug": "rijal-almaa",
+        "name": "Rijal Almaa Heritage Village",
+        "destination": "abha",
+        "category": "Heritage",
+        "ticket": "Museum from SAR 20",
+        "hours": "Daily 9:00–18:00",
+        "emoji": "🏘️",
+        "gradient": "g6",
+        "description": "A 900-year-old fortress village of sixty multi-storey stone towers on the ancient incense route to Yemen, set in a lush valley below the Asir escarpment. The central tower houses a museum of the region's famous al-Qatt al-Asiri women's art.\n\nThe drive down from Abha via the switchbacks of Aqabat Sama is an attraction in itself — allow a full day from Abha."
+    }
+]

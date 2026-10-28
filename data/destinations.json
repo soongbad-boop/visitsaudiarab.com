@@ -1,0 +1,137 @@
+[
+    {
+        "slug": "riyadh",
+        "name": "Riyadh",
+        "tagline": "The capital — skyscrapers, heritage forts and desert adventures",
+        "region": "Riyadh Province",
+        "best_time": "October to March",
+        "emoji": "🏙️",
+        "gradient": "g1",
+        "description": "Riyadh is the beating heart of modern Saudi Arabia — a capital that pairs glass towers and financial districts with mud-brick forts and old souqs. Start at Masmak Fortress in the old quarter, then ride up to the Kingdom Centre Sky Bridge for sunset over the city.\n\nThe city is also the gateway to the Edge of the World, the dramatic escarpment north-west of the city that has become the Kingdom's signature day trip. Between October and March the weather is mild, the desert is at its best, and the city's festival calendar — led by Riyadh Season — is in full swing.\n\nPlan at least three days: one for the historic centre and Diriyah, one for the desert, and one for museums, boulevards and the city's booming café and restaurant scene.",
+        "highlights": [
+            "Masmak Fortress and the old souq",
+            "Edge of the World day trip",
+            "Kingdom Centre Sky Bridge",
+            "Boulevard Riyadh City",
+            "National Museum of Saudi Arabia"
+        ]
+    },
+    {
+        "slug": "jeddah",
+        "name": "Jeddah",
+        "tagline": "Red Sea gateway with a UNESCO-listed old town",
+        "region": "Makkah Province",
+        "best_time": "November to April",
+        "emoji": "🌊",
+        "gradient": "g3",
+        "description": "Jeddah has been the Kingdom's window to the world for centuries — the port of arrival for pilgrims and traders crossing the Red Sea. Its historic heart, Al-Balad, is a UNESCO World Heritage site of coral-stone merchant houses with ornate rawasheen balconies.\n\nThe modern city stretches along a 30-kilometre Corniche dotted with sculptures, beaches and cafés, crowned by the King Fahd Fountain — the tallest of its kind in the world. Offshore, the Red Sea offers some of the most pristine diving and snorkelling in the region.\n\nJeddah is the natural base for visiting Makkah and Madinah, and its food scene — from fish market grills to Yemeni-influenced mandi houses — is the most cosmopolitan in the country.",
+        "highlights": [
+            "Al-Balad historic district",
+            "Jeddah Corniche and King Fahd Fountain",
+            "Red Sea diving and boat trips",
+            "Al-Rahmah floating mosque",
+            "Fish market and seafood grills"
+        ]
+    },
+    {
+        "slug": "alula",
+        "name": "AlUla",
+        "tagline": "Ancient tombs, sandstone canyons and desert oases",
+        "region": "Medina Province",
+        "best_time": "October to April",
+        "emoji": "🏜️",
+        "gradient": "g2",
+        "description": "AlUla is Saudi Arabia's crown jewel — a vast desert valley where 2,000-year-old Nabataean tombs sit among sculpted sandstone outcrops and palm-filled oases. Hegra (Mada'in Salih), the Kingdom's first UNESCO World Heritage site, is the southern sister city of Petra.\n\nBeyond the archaeology, AlUla offers hot-air ballooning at dawn, stargazing in some of the darkest skies in the region, the mirrored Maraya concert hall, and the famous Elephant Rock at sunset.\n\nThe old town of AlUla, with its labyrinth of mud-brick houses, and the oasis trail with its farms and cafés make it easy to fill three to four days. Book Hegra tours and balloon flights well in advance in peak season.",
+        "highlights": [
+            "Hegra (Mada'in Salih) tombs",
+            "Elephant Rock at sunset",
+            "Maraya mirrored concert hall",
+            "AlUla Old Town and oasis trail",
+            "Hot-air ballooning and stargazing"
+        ]
+    },
+    {
+        "slug": "diriyah",
+        "name": "Diriyah",
+        "tagline": "Birthplace of the Saudi state on Riyadh's doorstep",
+        "region": "Riyadh Province",
+        "best_time": "October to March",
+        "emoji": "🏰",
+        "gradient": "g4",
+        "description": "Diriyah is where the Saudi story begins — the original seat of the Al Saud family, founded in the 15th century on the banks of Wadi Hanifah. Its mud-brick citadel, At-Turaif, is a UNESCO World Heritage site and one of the finest examples of Najdi architecture anywhere.\n\nThe restored district now pairs museums and galleries with Bujairi Terrace, a dining quarter overlooking the illuminated ruins — one of the most atmospheric evenings in the Kingdom.\n\nDiriyah is 20 minutes from central Riyadh and works perfectly as a half-day or evening trip. Come late afternoon, tour At-Turaif before sunset, then stay for dinner as the walls light up.",
+        "highlights": [
+            "At-Turaif UNESCO citadel",
+            "Bujairi Terrace dining",
+            "Wadi Hanifah parks and trails",
+            "Diriyah museums and galleries"
+        ]
+    },
+    {
+        "slug": "red-sea",
+        "name": "The Red Sea Coast",
+        "tagline": "Untouched islands, coral reefs and luxury eco-resorts",
+        "region": "Tabuk & Makkah Provinces",
+        "best_time": "October to May",
+        "emoji": "🐠",
+        "gradient": "g5",
+        "description": "Saudi Arabia's Red Sea coastline stretches more than 1,800 kilometres and remains one of the world's least-explored reef systems. The new Red Sea destination has opened a string of island resorts built to strict sustainability standards, with coral gardens starting metres from the beach.\n\nSnorkelling and diving are the headline acts — expect turtles, rays, dolphins and untouched coral walls. Onshore, the dunes and volcanic landscapes of the Harrat fields make for striking excursions.\n\nAccess is via the dedicated Red Sea International Airport south of Umluj. Resorts are high-end; independent travellers can base themselves in Umluj or Yanbu for boat trips to the outer reefs.",
+        "highlights": [
+            "Pristine coral reefs and dive sites",
+            "Island-hopping and white-sand beaches",
+            "Umluj — the “Maldives of Saudi”",
+            "Yanbu historic port",
+            "Sunset dhow cruises"
+        ]
+    },
+    {
+        "slug": "abha",
+        "name": "Abha & Asir",
+        "tagline": "Green mountains, misty peaks and heritage villages",
+        "region": "Asir Province",
+        "best_time": "June to September",
+        "emoji": "⛰️",
+        "gradient": "g6",
+        "description": "When the rest of the Kingdom bakes, Asir turns green. The highlands around Abha rise above 2,200 metres, catching monsoon-fed mists that keep summers cool and hillsides terraced with crops.\n\nThe region's cultural treasures are its villages: Rijal Almaa, a 900-year-old village of stone tower houses, and the painted interior rooms of Asiri homes — a living art tradition carried by local women.\n\nRide the cable car down the escarpment, hike in Asir National Park, and look for the famously photogenic — and territorial — hamadryas baboons along the mountain roads.",
+        "highlights": [
+            "Rijal Almaa heritage village",
+            "Asir National Park",
+            "Cable car rides over the escarpment",
+            "Jabal Sawda — the Kingdom's highest peak",
+            "Tuesday market in Abha"
+        ]
+    },
+    {
+        "slug": "eastern-province",
+        "name": "Eastern Province",
+        "tagline": "Oases, Gulf beaches and the world's largest oasis",
+        "region": "Eastern Province",
+        "best_time": "November to March",
+        "emoji": "🌴",
+        "gradient": "g7",
+        "description": "The Eastern Province pairs the Gulf waterfront of Al Khobar and Dammam with one of Arabia's great landscapes — Al-Ahsa Oasis, a UNESCO-listed sea of more than 2.5 million date palms fed by natural springs.\n\nExplore the caves of Jabal Al-Qarah, browse the Qaisariya Souq in Hofuf, then cool off on the Corniche in Al Khobar or the beaches of Half Moon Bay.\n\nThe region is connected to Riyadh by fast train and to Bahrain by the King Fahd Causeway, making it an easy add-on to a Gulf itinerary.",
+        "highlights": [
+            "Al-Ahsa Oasis (UNESCO)",
+            "Jabal Al-Qarah caves",
+            "Qaisariya Souq in Hofuf",
+            "Al Khobar Corniche",
+            "Half Moon Bay beaches"
+        ]
+    },
+    {
+        "slug": "taif",
+        "name": "Taif",
+        "tagline": "City of roses in the cool Sarawat highlands",
+        "region": "Makkah Province",
+        "best_time": "March to May (rose season) and summer",
+        "emoji": "🌹",
+        "gradient": "g8",
+        "description": "Perched at 1,700 metres on the slopes of the Sarawat mountains, Taif has been the summer escape of choice for centuries. Each spring its farms burst into bloom for the rose harvest — the source of the Kingdom's prized Taif rose oil and water.\n\nVisit a working rose farm, ride the Al-Hada cable car down the mountain road past troops of baboons, and wander the old souq and Shubra Palace.\n\nTaif combines naturally with Makkah and Jeddah, and its cool evenings make it a welcome break from the heat of the coast.",
+        "highlights": [
+            "Taif rose farms and distilleries",
+            "Al-Hada mountain road and cable car",
+            "Shubra Palace",
+            "Al-Shafa viewpoint",
+            "Okaz Souq festival grounds"
+        ]
+    }
+]
